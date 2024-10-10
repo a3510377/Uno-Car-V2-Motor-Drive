@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "usb_device.h": "c",
+    "i2c.h": "c",
+    "registers.h": "c",
+    "i2c_slave.h": "c",
+    "main.h": "c"
+  }
+}
